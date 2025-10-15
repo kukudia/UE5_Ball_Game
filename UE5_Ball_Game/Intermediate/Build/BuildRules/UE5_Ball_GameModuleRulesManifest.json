@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Git_projects\\UE\\UE5_Ball_Game\\UE5_Ball_Game\\Source\\UE5_Ball_Game\\UE5_Ball_Game.Build.cs",
+		"D:\\Git_projects\\UE\\UE5_Ball_Game\\UE5_Ball_Game\\Source\\UE5_Ball_Game.Target.cs",
+		"D:\\Git_projects\\UE\\UE5_Ball_Game\\UE5_Ball_Game\\Source\\UE5_Ball_GameEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.1"
+}

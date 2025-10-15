@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\git_projects\\ue\\ue5_ball_game\\ue5_ball_game\\intermediate\\build\\win64\\unrealeditor\\inc\\ue5_ball_game\\uht\\ue5_ball_gamegamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\git_projects\\ue\\ue5_ball_game\\ue5_ball_game\\intermediate\\build\\win64\\x64\\ue5_ball_gameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\git_projects\\ue\\ue5_ball_game\\ue5_ball_game\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ue5_ball_game\\definitions.ue5_ball_game.h",
+            "d:\\git_projects\\ue\\ue5_ball_game\\ue5_ball_game\\source\\ue5_ball_game\\ue5_ball_gamegamemode.h",
+            "e:\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "e:\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "e:\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "e:\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\git_projects\\ue\\ue5_ball_game\\ue5_ball_game\\intermediate\\build\\win64\\unrealeditor\\inc\\ue5_ball_game\\uht\\ue5_ball_gamegamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
