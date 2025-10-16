@@ -1,0 +1,90 @@
+# Blender 4.3.0 MTL File: 'JosDab.JM_Wooden Spheres.blend'
+# www.blender.org
+
+newmtl Wooden_Sphere_01
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Textures/01 Wood_4K_Albedo.jpg
+map_Ks Textures/Wood_4K_Specular_General.jpg
+map_Ns Textures/Wood_4K_Roughness_General.jpg
+map_Bump -bm 1.000000 Textures/Wood_4K_Normal.png
+
+newmtl Wooden_Sphere_02
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Textures/02 Wood_4K_Albedo.jpg
+map_Ks Textures/Wood_4K_Specular_General.jpg
+map_Ns Textures/Wood_4K_Roughness_General.jpg
+map_Bump -bm 1.000000 Textures/Wood_4K_Normal.png
+
+newmtl Wooden_Sphere_03
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Textures/03 Wood_4K_Albedo.jpg
+map_Ks Textures/Wood_4K_Specular_General.jpg
+map_Ns Textures/Wood_4K_Roughness_General.jpg
+map_Bump -bm 1.000000 Textures/Wood_4K_Normal.png
+
+newmtl Wooden_Sphere_04
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Textures/04 Wood_4K_Albedo.jpg
+map_Ks Textures/Wood_4K_Specular_General.jpg
+map_Ns Textures/Wood_4K_Roughness_General.jpg
+map_Bump -bm 1.000000 Textures/Wood_4K_Normal.png
+
+newmtl Wooden_Sphere_05
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Textures/05 Wood_4K_Albedo.jpg
+map_Ks Textures/Wood_4K_Specular_General.jpg
+map_Ns Textures/Wood_4K_Roughness_General.jpg
+map_Bump -bm 1.000000 Textures/Wood_4K_Normal.png
+
+newmtl Wooden_Sphere_06
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Textures/06 Wood_4K_Albedo.jpg
+map_Ks Textures/Wood_4K_Specular_General.jpg
+map_Ns Textures/Wood_4K_Roughness_General.jpg
+map_Bump -bm 1.000000 Textures/Wood_4K_Normal.png
+
+newmtl Wooden_Sphere_07
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Textures/07 Wood_4K_Albedo.jpg
+map_Ks Textures/Wood_4K_Specular_General.jpg
+map_Ns Textures/Wood_4K_Roughness_General.jpg
+map_Bump -bm 1.000000 Textures/Wood_4K_Normal.png
+
+newmtl Wooden_Sphere_08
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Textures/08 Wood_4K_Albedo.jpg
+map_Ks Textures/Wood_4K_Specular_08.jpg
+map_Ns Textures/Wood_4K_Roughness_08.jpg
+map_Bump -bm 1.000000 Textures/Wood_4K_Normal.png
