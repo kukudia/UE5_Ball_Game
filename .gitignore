@@ -73,3 +73,27 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+UE5_Ball_Game/Intermediate/Build/Win64/x64/UE5_Ball_Game/Development/Core/SharedPCH.Core.Project.ValApi.ValExpApi.Cpp20.h.pch
+
+UE5_Ball_Game/Saved/StagedBuilds/Windows/UE5_Ball_Game/Binaries/Win64/UE5_Ball_Game.exe
+
+UE5_Ball_Game/Binaries/Win64/UE5_Ball_Game.exe
+
+UE5_Ball_Game/Saved/StagedBuilds/Windows/UE5_Ball_Game/Binaries/Win64/UE5_Ball_Game.pdb
+
+UE5_Ball_Game/Binaries/Win64/UE5_Ball_Game.pdb
+
+UE5_Ball_Game/Saved/StagedBuilds/Windows/UE5_Ball_Game/Content/Paks/UE5_Ball_Game-Windows.ucas
+
+UE5_Ball_Game/Saved/Shaders/PCD3D_SM6-PCD3D_SM6/ShaderCode-Global-PCD3D_SM6-PCD3D_SM6.ushaderbytecode
+
+UE5_Ball_Game/Saved/Cooked/Windows/UE5_Ball_Game/Metadata/ShaderLibrarySource/ShaderArchive-Global-PCD3D_SM6-PCD3D_SM6.ushaderbytecode
+
+UE5_Ball_Game/Saved/Cooked/Windows/UE5_Ball_Game/Content/ShaderArchive-Global-PCD3D_SM6-PCD3D_SM6.ushaderbytecode
+
+UE5_Ball_Game/Intermediate/CachedAssetRegistry_0.bin
+
+UE5_Ball_Game/Saved/Autosaves/Game/02_Imports/JosDab_JM_Wooden_Spheres_Obj-File/TEX_Wood_4K_Normal_Auto2.uasset
+
+UE5_Ball_Game/Saved/Autosaves/Game/02_Imports/JosDab_JM_Wooden_Spheres_Obj-File/TEX_Wood_4K_Normal_Auto1.uasset

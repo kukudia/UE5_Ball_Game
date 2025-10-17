@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\git_projects\\ue\\ue5_ball_game\\ue5_ball_game\\intermediate\\source\\ue5_ball_game.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\git_projects\\ue\\ue5_ball_game\\ue5_ball_game\\intermediate\\build\\win64\\x64\\ue5_ball_game\\development\\core\\sharedpch.core.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\git_projects\\ue\\ue5_ball_game\\ue5_ball_game\\intermediate\\build\\win64\\x64\\unrealgame\\development\\ue5_ball_game\\definitions.ue5_ball_game.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
