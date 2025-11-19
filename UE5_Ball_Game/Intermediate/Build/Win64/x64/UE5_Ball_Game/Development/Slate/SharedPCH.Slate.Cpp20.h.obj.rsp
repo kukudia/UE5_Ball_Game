@@ -33,7 +33,7 @@
 /external:I "ThirdParty/RapidJSON/1.1.0"
 /external:I "ThirdParty/LibTiff/Source/Win64"
 /external:I "ThirdParty/LibTiff/Source"
-/external:I "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/INCLUDE"
+/external:I "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/INCLUDE"
 /external:I "C:/Program Files (x86)/Windows Kits/10/include/10.0.22621.0/ucrt"
 /external:I "C:/Program Files (x86)/Windows Kits/10/include/10.0.22621.0/shared"
 /external:I "C:/Program Files (x86)/Windows Kits/10/include/10.0.22621.0/um"
@@ -43,8 +43,6 @@
 /Fo"D:/Git_projects/UE/UE5_Ball_Game/UE5_Ball_Game/Intermediate/Build/Win64/x64/UE5_Ball_Game/Development/Slate/SharedPCH.Slate.Cpp20.h.obj"
 /experimental:log "D:/Git_projects/UE/UE5_Ball_Game/UE5_Ball_Game/Intermediate/Build/Win64/x64/UE5_Ball_Game/Development/Slate/SharedPCH.Slate.Cpp20.h.sarif"
 /sourceDependencies "D:/Git_projects/UE/UE5_Ball_Game/UE5_Ball_Game/Intermediate/Build/Win64/x64/UE5_Ball_Game/Development/Slate/SharedPCH.Slate.Cpp20.h.dep.json"
-/d2ssa-cfg-question-
-/Zc:inline
 /nologo
 /Oi
 /FC
@@ -58,6 +56,8 @@
 /permissive-
 /Zc:strictStrings-
 /Zc:__cplusplus
+/Zc:inline
+/Zc:preprocessor
 /D_CRT_STDIO_LEGACY_WIDE_SPECIFIERS=1
 /D_SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS=1
 /D_DISABLE_EXTENDED_ALIGNED_STORAGE
@@ -81,8 +81,10 @@
 /we4459
 /wd4244
 /wd4838
+/we4668
+/wd4267
+/wd4100
 /TP
 /GR-
 /std:c++20
-/Zc:preprocessor
 /wd5054

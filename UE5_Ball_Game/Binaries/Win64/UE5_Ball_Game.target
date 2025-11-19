@@ -2,6 +2,8 @@
 	"TargetName": "UE5_Ball_Game",
 	"Platform": "Win64",
 	"Configuration": "Development",
+	"BuildSettingsVersion": "V6",
+	"TargetBuildEnvironment": "Shared",
 	"TargetType": "Game",
 	"IsTestTarget": false,
 	"Architecture": "x64",
@@ -10,14 +12,14 @@
 	"Version": 
 	{
 		"MajorVersion": 5,
-		"MinorVersion": 6,
-		"PatchVersion": 1,
-		"Changelist": 44394996,
-		"CompatibleChangelist": 43139311,
+		"MinorVersion": 7,
+		"PatchVersion": 0,
+		"Changelist": 47537391,
+		"CompatibleChangelist": 0,
 		"IsLicenseeVersion": 0,
 		"IsPromotedBuild": 0,
-		"BranchName": "++UE5+Release-5.6",
-		"BuildId": "43139311"
+		"BranchName": "++UE5+Release-5.7",
+		"BuildId": "47537391"
 	},
 	"BuildProducts": [
 		{
@@ -1987,6 +1989,10 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(EngineDir)/Content/Slate/Starship/Common/TagCollection_16.svg",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(EngineDir)/Content/Slate/Starship/Common/TagSimple_16.svg",
 			"Type": "UFS"
 		},
@@ -1996,6 +2002,10 @@
 		},
 		{
 			"Path": "$(EngineDir)/Content/Slate/Starship/Common/TokenTextBox_16.svg",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Starship/Common/TranslationPicker.svg",
 			"Type": "UFS"
 		},
 		{
@@ -2051,7 +2061,15 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(EngineDir)/Content/Slate/Starship/Common/alert-triangle-badge.svg",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(EngineDir)/Content/Slate/Starship/Common/alert-triangle-large.svg",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Starship/Common/alert-triangle-red-outlined.svg",
 			"Type": "UFS"
 		},
 		{
@@ -2064,6 +2082,10 @@
 		},
 		{
 			"Path": "$(EngineDir)/Content/Slate/Starship/Common/arrow-left.svg",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Starship/Common/arrow-leftright.svg",
 			"Type": "UFS"
 		},
 		{
@@ -2539,6 +2561,10 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(EngineDir)/Content/Slate/Starship/Docking/OpenTabInWindow.svg",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(EngineDir)/Content/Slate/Starship/Docking/drawer-shadow.png",
 			"Type": "UFS"
 		},
@@ -2943,6 +2969,10 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(EngineDir)/Content/Slate/Starship/SourceControl/RC_Merged.svg",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(EngineDir)/Content/Slate/Starship/SourceControl/RC_Modified.svg",
 			"Type": "UFS"
 		},
@@ -3191,6 +3221,10 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Animation/EaseCurveTool/EaseCurveTool.uplugin",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Animation/IKRig/IKRig.uplugin",
 			"Type": "UFS"
 		},
@@ -3204,6 +3238,14 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Animation/TweeningUtils/TweeningUtils.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/AudioInsights/AudioInsights.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/BaseMaterial/BaseMaterial.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -3231,6 +3273,10 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Compositing/CompositeCore/CompositeCore.uplugin",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Compression/OodleNetwork/OodleNetwork.uplugin",
 			"Type": "UFS"
 		},
@@ -3240,6 +3286,10 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Developer/DumpGPUServices/DumpGPUServices.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Developer/GPUReshape/GPUReshape.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -3347,6 +3397,10 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Experimental/AIAssistant/AIAssistant.uplugin",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Experimental/AutomationUtils/AutomationUtils.uplugin",
 			"Type": "UFS"
 		},
@@ -3379,10 +3433,6 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Experimental/Compositing/CompositeCore/CompositeCore.uplugin",
-			"Type": "UFS"
-		},
-		{
 			"Path": "$(EngineDir)/Plugins/Experimental/Dataflow/Dataflow.uplugin",
 			"Type": "UFS"
 		},
@@ -3408,6 +3458,10 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Experimental/GeometryDataflow/GeometryDataflow.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Experimental/GlobalConfigurationData/GlobalConfigurationData.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -3444,6 +3498,10 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/FX/Cascade/Cascade.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/FX/NiagaraPreviewContent/NiagaraPreviewContent.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -3520,6 +3578,10 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/MovieScene/SequenceValidator/SequenceValidator.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -3727,10 +3789,6 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/VirtualProduction/CameraCalibrationCore/CameraCalibrationCore.uplugin",
-			"Type": "UFS"
-		},
-		{
 			"Path": "$(EngineDir)/Plugins/VirtualProduction/Takes/Takes.uplugin",
 			"Type": "UFS"
 		},
@@ -3741,6 +3799,7 @@
 	],
 	"BuildPlugins": [
 		"ACLPlugin",
+		"AIAssistant",
 		"AISupport",
 		"ActorLayerUtilities",
 		"ActorSequence",
@@ -3760,17 +3819,18 @@
 		"AssetManagerEditor",
 		"AssetTags",
 		"AudioCapture",
+		"AudioInsights",
 		"AudioSynesthesia",
 		"AudioWidgets",
 		"AutomationUtils",
 		"AvfMedia",
 		"BackChannel",
+		"BaseMaterial",
 		"BlendSpaceMotionAnalysis",
 		"BlueprintHeaderView",
 		"Bridge",
 		"CLionSourceCodeAccess",
 		"CableComponent",
-		"CameraCalibrationCore",
 		"CameraShakePreviewer",
 		"Cascade",
 		"ChangelistReview",
@@ -3802,6 +3862,7 @@
 		"DatasmithContent",
 		"DeformerGraph",
 		"DumpGPUServices",
+		"EaseCurveTool",
 		"EditorDataStorage",
 		"EditorDataStorageFeatures",
 		"EditorDebugTools",
@@ -3815,10 +3876,10 @@
 		"ExampleDeviceProfileSelector",
 		"Fab",
 		"FacialAnimation",
-		"FastBuildController",
 		"Fracture",
 		"FullBodyIK",
 		"GLTFExporter",
+		"GPUReshape",
 		"GameplayCameras",
 		"GameplayStateTree",
 		"GameplayTagsEditor",
@@ -3828,6 +3889,7 @@
 		"GeometryMode",
 		"GeometryProcessing",
 		"GitSourceControl",
+		"GlobalConfigurationData",
 		"GoogleCloudMessaging",
 		"GooglePAD",
 		"HairStrands",
@@ -3866,6 +3928,7 @@
 		"NNERuntimeORT",
 		"NamingTokens",
 		"Niagara",
+		"NiagaraPreviewContent",
 		"NiagaraSimCaching",
 		"NullSourceCodeAccess",
 		"ObjectMixer",
@@ -3898,6 +3961,7 @@
 		"RigVM",
 		"RuntimeTelemetry",
 		"SequenceNavigator",
+		"SequenceValidator",
 		"SequencerAnimTools",
 		"SequencerScripting",
 		"SignificanceManager",
