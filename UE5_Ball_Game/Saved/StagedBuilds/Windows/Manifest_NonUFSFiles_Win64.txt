@@ -1,7 +1,7 @@
 UE5_Ball_Game/Binaries/Win64/D3D12/x64/D3D12Core.dll	2025-11-14T23:04:12.999Z
 UE5_Ball_Game/Binaries/Win64/D3D12/x64/d3d12SDKLayers.dll	2025-11-14T23:04:13.834Z
 UE5_Ball_Game/Binaries/Win64/DML/x64/DirectML.dll	2025-11-14T22:53:41.990Z
-UE5_Ball_Game/Binaries/Win64/UE5_Ball_Game-Win64-Shipping.exe	2025-11-18T20:03:37.507Z
+UE5_Ball_Game/Binaries/Win64/UE5_Ball_Game-Win64-Shipping.exe	2025-11-22T21:20:31.697Z
 UE5_Ball_Game/Binaries/Win64/tbb12.dll	2025-11-14T22:58:09.737Z
 UE5_Ball_Game/Binaries/Win64/tbbmalloc.dll	2025-11-14T22:58:09.740Z
 Engine/Extras/Redist/en-us/vc_redist.x64.exe	2025-11-14T22:17:16.068Z
@@ -16,5 +16,5 @@ Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2025-11-14T
 Engine/Content/Renderer/TessellationTable.bin	2025-11-14T22:13:36.269Z
 Engine/Content/Slate/Cursor/invisible.cur	2025-11-14T22:13:36.475Z
 Engine/Plugins/NNE/NNERuntimeORT/Binaries/ThirdParty/Onnxruntime/Win64/onnxruntime.dll	2025-11-14T22:33:13.343Z
-Engine/Config/StagedBuild_UE5_Ball_Game.ini	2025-11-18T20:05:40.834Z
-UE5_Ball_Game.exe	2025-11-18T20:05:40.812Z
+Engine/Config/StagedBuild_UE5_Ball_Game.ini	2025-11-22T21:37:10.102Z
+UE5_Ball_Game.exe	2025-11-22T21:37:10.080Z

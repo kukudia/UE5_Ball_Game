@@ -502,6 +502,8 @@ ConfigSystem.<Editor>.Engine:/Script/WindowsTargetPlatform.WindowsTargetSettings
 ConfigSystem.<Editor>.Engine:/Script/WindowsTargetPlatform.WindowsTargetSettings:bResampleForDevice:0=False
 ConfigSystem.<Editor>.Engine:/Script/WindowsTargetPlatform.WindowsTargetSettings:CacheSizeKB:0=65536
 ConfigSystem.<Editor>.Engine:/Script/WindowsTargetPlatform.WindowsTargetSettings:CompressionQualityModifier:0=1.000000
+ConfigSystem.<Editor>.Engine:/Script/WindowsTargetPlatform.WindowsTargetSettings:D3D11TargetedShaderFormats:0=PCD3D_SM5
+ConfigSystem.<Editor>.Engine:/Script/WindowsTargetPlatform.WindowsTargetSettings:D3D12TargetedShaderFormats:0=PCD3D_SM6
 ConfigSystem.<Editor>.Engine:/Script/WindowsTargetPlatform.WindowsTargetSettings:HighSampleRate:0=32000.000000
 ConfigSystem.<Editor>.Engine:/Script/WindowsTargetPlatform.WindowsTargetSettings:LowSampleRate:0=12000.000000
 ConfigSystem.<Editor>.Engine:/Script/WindowsTargetPlatform.WindowsTargetSettings:MaxChunkSizeOverrideKB:0=0
@@ -609,6 +611,7 @@ ConfigSystem.<Editor>.Engine:Kismet:bOptimizeAdjacentStates:0=true
 ConfigSystem.<Editor>.Engine:Kismet:bOptimizeExecutionFlowStack:0=true
 ConfigSystem.<Editor>.Engine:Kismet:bPersistentUberGraphFrame:0=true
 ConfigSystem.<Editor>.Engine:Kismet:bTurnOffEditorConstructionScript:0=false
+ConfigSystem.<Editor>.Engine:Kismet:bUseLegacyAnimBlueprintThreadSafetyChecks:0=true
 ConfigSystem.<Editor>.Engine:Kismet:bUseLocalGraphVariables:0=false
 ConfigSystem.<Editor>.Engine:LogFiles:LogTimes:0=True
 ConfigSystem.<Editor>.Engine:LogFiles:MaxLogFilesOnDisk:0=10

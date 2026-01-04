@@ -4,7 +4,7 @@
 		"hostname": "[::1]",
 		"remotehostnames": [
 			"192.168.56.1",
-			"10.72.232.217",
+			"10.72.232.42",
 			"hostname://WIN-9NA7A5NQ83C.xmu.edu.my"
 		],
 		"hostport": 8558,

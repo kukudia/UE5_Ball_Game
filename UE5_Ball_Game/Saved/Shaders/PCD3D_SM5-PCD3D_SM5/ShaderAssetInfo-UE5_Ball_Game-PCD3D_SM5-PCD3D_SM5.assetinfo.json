@@ -14,6 +14,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "B55A9F0351AC933431552387FB0DA74E197F52EF",
+			"Assets": [
+				"/Game/StylizedDungeon/Materials/M_Master_1"
+			]
+		},
+		{
 			"ShaderMapHash": "F902A3032F2E396E5A2CBA315E37CF2850B6D1D0",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Blend_DS"
@@ -29,6 +35,12 @@
 			"ShaderMapHash": "9C36F40F8B345C83ECB49D7D7807E69B65FBCEE2",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F4F7D413A9FD9E3E9F3413C1F424A1E537938309",
+			"Assets": [
+				"/Game/ScanningSystem/Materials/Outline/MI_PP_OutlineShader"
 			]
 		},
 		{
@@ -92,6 +104,13 @@
 			]
 		},
 		{
+			"ShaderMapHash": "173B3E41986F46D8C999179CA27762A80F3F2F6A",
+			"Assets": [
+				"/Game/StylizedDungeon/Materials/M_Fire_1",
+				"/Game/StylizedDungeon/Materials/M_Smoke_1"
+			]
+		},
+		{
 			"ShaderMapHash": "3D3126429800B599BB988AFF7B35CC3F7522CA60",
 			"Assets": [
 				"/Game/PuzzleLogicSystem/Materials/M_LogicOjectDefault"
@@ -146,6 +165,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "FECCC453C248FDAEF69FC9808BF90C3340C3F1C0",
+			"Assets": [
+				"/Game/ScanningSystem/Demo/Global/DemoRoom/Materials/M_UELogo"
+			]
+		},
+		{
 			"ShaderMapHash": "3886D3543327D5FFD5F1632C1AC79255E764211F",
 			"Assets": [
 				"/InterchangeAssets/gltf/M_Transmission"
@@ -177,8 +202,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "E74FBE62E9BCF01F0C4CCAE8ED3435337193558B",
+			"Assets": [
+				"/Game/StylizedDungeon/Materials/M_WaterWrinkles_1"
+			]
+		},
+		{
+			"ShaderMapHash": "F45AA8635DF63646836D2979102D968BEC30C4F2",
+			"Assets": [
+				"/Game/ScanningSystem/Materials/Outline/M_PP_OutlineShader"
+			]
+		},
+		{
 			"ShaderMapHash": "329F146535D885FEA858EC6EF4E68F0375FAAAB0",
 			"Assets": [
+				"/Game/StylizedDungeon/Materials/M_Overview_1",
 				"/Game/StylizedDungeonVol2/Materials/M_Overview_1"
 			]
 		},
@@ -186,6 +224,12 @@
 			"ShaderMapHash": "BEAB806B46D6A01D1F88E8DF50F36DCD412CDD8D",
 			"Assets": [
 				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
+			]
+		},
+		{
+			"ShaderMapHash": "C434A56D5A80D547EB67C73CC4A8B11FB3DEDC99",
+			"Assets": [
+				"/Game/ScanningSystem/Materials/PulseEffect/M_ScanEffect"
 			]
 		},
 		{
@@ -220,6 +264,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "C6E5FB70683CE1A0C9EFC35104677B437C892600",
+			"Assets": [
+				"/Game/ScanningSystem/Materials/SensingDome/M_ScanningDome"
+			]
+		},
+		{
 			"ShaderMapHash": "B80D33711046CC62B847B9A0E4B3855E2D25DDF8",
 			"Assets": [
 				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
@@ -250,9 +300,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "FEDF8A7633A14FA828F10E36723B7B14425F2B16",
+			"Assets": [
+				"/Game/ScanningSystem/Materials/XRay/M_PP_OutlineFX"
+			]
+		},
+		{
 			"ShaderMapHash": "8C2BED791AA95E3E4944BD9B144DF197E2456952",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "B96C027A9C8153C783ED3265F778F8B3F7F21E3F",
+			"Assets": [
+				"/Game/ScanningSystem/Demo/ExampleContent/MaterialInstances/Materials/M_Arrows"
 			]
 		},
 		{
@@ -310,6 +372,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "D974E181360ACE3C909B308AFBB1490A73BA09F6",
+			"Assets": [
+				"/Game/StylizedDungeon/Materials/M_Master_2"
+			]
+		},
+		{
 			"ShaderMapHash": "11DBFF81C5F4B6F9CE5EBBC3CC3DC2FDF3E5D412",
 			"Assets": [
 				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
@@ -318,6 +386,7 @@
 		{
 			"ShaderMapHash": "DF040B82F48419F4D934BA2244CA72AC28FECA33",
 			"Assets": [
+				"/Game/StylizedDungeon/Materials/M_Dust_1",
 				"/Game/StylizedDungeonVol2/Materials/M_Dust_1"
 			]
 		},
@@ -337,6 +406,12 @@
 			"ShaderMapHash": "2B848D8637F3E27A2CB8D831CFEEA65E617A1FF4",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "F5A0CF866F927C0E00027325926FD566C18F4FD5",
+			"Assets": [
+				"/Game/StylizedDungeon/Materials/M_Waterfall_1"
 			]
 		},
 		{
@@ -409,6 +484,12 @@
 			"ShaderMapHash": "BFF9A8A4F513BECC33BF59CA0C321E4DFDC45703",
 			"Assets": [
 				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "57D71BA501A5B72B3533C00E675BB41CBAEDEE9E",
+			"Assets": [
+				"/Game/ScanningSystem/Materials/LandscapeScan/M_LandscapeScan"
 			]
 		},
 		{
@@ -592,6 +673,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "86A061D4804CE2345A8967865E763AA053CCFB44",
+			"Assets": [
+				"/Game/ScanningSystem/Demo/Global/DemoRoom/Materials/M_Tile"
+			]
+		},
+		{
 			"ShaderMapHash": "749A4EDE2AAA861ED0F183040FE6E04B9835CC5A",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
@@ -619,6 +706,12 @@
 			"ShaderMapHash": "7DED80E3FCC3E682F9D8477107953E24E88E1FDD",
 			"Assets": [
 				"/InterchangeAssets/gltf/M_Unlit"
+			]
+		},
+		{
+			"ShaderMapHash": "5D8A0EE4F442B01961B8983FEC125DF1734576AC",
+			"Assets": [
+				"/Game/ScanningSystem/Demo/Global/DemoRoom/Materials/M_Metal"
 			]
 		},
 		{
@@ -652,6 +745,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "134E5DEB480C878A5288D01A2831527220E47946",
+			"Assets": [
+				"/Game/StylizedDungeon/Materials/M_Water_1"
+			]
+		},
+		{
 			"ShaderMapHash": "E8E7A2EB0AEA8F74453679892010AA512D61C654",
 			"Assets": [
 				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
@@ -660,6 +759,7 @@
 		{
 			"ShaderMapHash": "55E4C5ED37C07DA9C05AC2912E827B55D53324BD",
 			"Assets": [
+				"/Game/StylizedDungeon/Materials/M_Gradient",
 				"/Game/StylizedDungeonVol2/Materials/M_Gradient"
 			]
 		},
@@ -685,6 +785,18 @@
 			"ShaderMapHash": "38F412F7BB74BC91B968EE870B2173BF51460949",
 			"Assets": [
 				"/InterchangeAssets/gltf/M_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "155879F7B3499602CE6488D76957AE2F2B664154",
+			"Assets": [
+				"/Game/ScanningSystem/Materials/SensingDome/M_ScanningDome1"
+			]
+		},
+		{
+			"ShaderMapHash": "A0FB33F90E80F37BB92F04935DC3F0CFCA424D9E",
+			"Assets": [
+				"/Game/StylizedDungeon/Materials/M_Soil_1"
 			]
 		},
 		{

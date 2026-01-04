@@ -1,8 +1,8 @@
-﻿Log file open, 11/19/25 04:05:58
+﻿Log file open, 11/23/25 05:37:19
 LogTrace: Initializing trace...
 LogTrace: Finished trace initialization.
 LogInit: Session CrashGUID >====================================================
-         Session CrashGUID >   UECC-Windows-A61E79654ADB9860B9850B8EEB87B886
+         Session CrashGUID >   UECC-Windows-FDB6A0404E6F22E0E6E387B3FDFA8007
          Session CrashGUID >====================================================
 LogConfig: No local boot hotfix file found at: [D:/Git_projects/UE/UE5_Ball_Game/UE5_Ball_Game/Saved/PersistentDownloadDir/HotfixForNextBoot.txt]
 LogPluginManager: Mounting Engine plugin TcpMessaging
@@ -66,167 +66,172 @@ LogDevObjectVersion:   Dev-NaniteResearch (30D58BE3-95EA-4282-A6E3-B159D8EBB06A)
 LogInit: Presizing for max 100000 objects, including 0 objects not considered by GC.
 LogInit: Object subsystem initialized
 LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
-LogConfig: CVar [[r.DumpShaderDebugInfo:2]] deferred - dummy variable created
-LogConfig: CVar [[p.chaos.AllowCreatePhysxBodies:1]] deferred - dummy variable created
-[2025.11.18-20.05.58:592][  0]LogConfig: CVar [[fx.SkipVectorVMBackendOptimizations:1]] deferred - dummy variable created
-[2025.11.18-20.05.58:592][  0]LogConfig: Applying CVar settings from Section [Startup_Windows] File [../../../Engine/Config/ConsoleVariables.ini]
-[2025.11.18-20.05.58:592][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
-[2025.11.18-20.05.58:592][  0]LogConfig: Set CVar [[WindowsApplication.UseWorkerThreadForRawInput:1]]
-[2025.11.18-20.05.58:592][  0]LogInit: Computer: WIN-9NA7A5NQ83C
-[2025.11.18-20.05.58:592][  0]LogInit: User: Administrator
-[2025.11.18-20.05.58:592][  0]LogInit: CPU Page size=4096, Cores=4
-[2025.11.18-20.05.58:592][  0]LogInit: High frequency timer resolution =10.000000 MHz
-[2025.11.18-20.05.58:592][  0]LogInit: Handheld Device: 0
-[2025.11.18-20.05.58:592][  0]LogMemory: Process is running as part of a Windows Job with separate resource limits
-[2025.11.18-20.05.58:592][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx) Virtual=31.7GB
-[2025.11.18-20.05.58:592][  0]LogMemory: Platform Memory Stats for WindowsEditor
-[2025.11.18-20.05.58:592][  0]LogMemory: Process Physical Memory: 66.82 MB used, 66.82 MB peak
-[2025.11.18-20.05.58:592][  0]LogMemory: Process Virtual Memory: 104.88 MB used, 104.88 MB peak
-[2025.11.18-20.05.58:592][  0]LogMemory: Physical Memory: 10969.30 MB used,  5103.94 MB free, 16073.23 MB total
-[2025.11.18-20.05.58:592][  0]LogMemory: Virtual Memory: 16600.59 MB used,  15856.65 MB free, 32457.23 MB total
-[2025.11.18-20.05.58:613][  0]LogAssetRegistry: FAssetRegistry took 0.0006 seconds to start up
-[2025.11.18-20.05.58:616][  0]LogUObjectArray: 620 objects as part of root set at end of initial load.
-[2025.11.18-20.05.58:616][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2025.11.18-20.05.58:618][  0]LogInit: Using OS detected language ().
-[2025.11.18-20.05.58:618][  0]LogInit: Using OS detected locale ().
-[2025.11.18-20.05.58:620][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
-[2025.11.18-20.05.58:621][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
-[2025.11.18-20.05.58:621][  0]LogInit: Using OS detected language ().
-[2025.11.18-20.05.58:621][  0]LogInit: Using OS detected locale ().
-[2025.11.18-20.05.58:621][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
-[2025.11.18-20.05.58:622][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
-[2025.11.18-20.05.58:622][  0]LogPakFile: Display: ProjectDir: D:/Git_projects/UE/UE5_Ball_Game/UE5_Ball_Game/
-[2025.11.18-20.05.58:623][  0]LogIoStore: Display: ==================== IoStore Utils ====================
-[2025.11.18-20.05.58:625][  0]LogIoStore: Display: Parsing crypto keys from a crypto key cache file 'D:\Git_projects\UE\UE5_Ball_Game\UE5_Ball_Game\Saved\Cooked\Windows\UE5_Ball_Game\Metadata\Crypto.json'
-[2025.11.18-20.05.58:631][  0]LogIoStore: Display: Container signing - DISABLED
-[2025.11.18-20.05.58:631][  0]LogIoStore: Display: Directory index - ENABLED
-[2025.11.18-20.05.58:631][  0]LogIoStore: Display: Using compression format 'Oodle'
-[2025.11.18-20.05.58:740][  0]LogConfig: Display: Read in platform Windows ini files took 0.11 seconds
-[2025.11.18-20.05.58:741][  0]LogIoStore: Display: Using memory mapping alignment '16384'
-[2025.11.18-20.05.58:741][  0]LogIoStore: Display: Using compression block size '65536'
-[2025.11.18-20.05.58:741][  0]LogIoStore: Display: Using compression block alignment '2048'
-[2025.11.18-20.05.58:741][  0]LogIoStore: Display: Using compression min bytes saved '1024'
-[2025.11.18-20.05.58:741][  0]LogIoStore: Display: Using compression min percent saved '5'
-[2025.11.18-20.05.58:741][  0]LogIoStore: Display: Using max partition size '0'
-[2025.11.18-20.05.58:741][  0]LogIoStore: Display: Not using DDC for compression
-[2025.11.18-20.05.58:741][  0]LogIoStore: Display: Using command list file: 'C:\Users\Administrator\AppData\Roaming\Unreal Engine\AutomationTool\Logs\E+UE_5.7\IoStoreCommands.txt'
-[2025.11.18-20.05.58:757][  0]LogIoStore: Display: Selected Oodle level 4 (Normal) from command line for shaders
-[2025.11.18-20.05.58:760][  0]LogIoStore: Display: Fetched 746 oplog items from Manifest in 0.00 seconds
-[2025.11.18-20.05.58:771][  0]LogIoStore: Display: Parsed 746 oplog items 0.01 seconds, 979 chunks
-[2025.11.18-20.05.58:784][  0]LogIoStore: Display: Using input asset registry: D:/Git_projects/UE/UE5_Ball_Game/UE5_Ball_Game/Saved/Cooked/Windows/UE5_Ball_Game/Metadata/DevelopmentAssetRegistry.bin
-[2025.11.18-20.05.58:806][  0]LogIoStore: Display: Loaded 240 chunk hashes from AssetRegistry in 0.03 seconds, 240 hashes updated in 0.00 seconds
-[2025.11.18-20.05.58:813][  0]LogIoStore: Display: Searching for cooked assets in folder 'D:\Git_projects\UE\UE5_Ball_Game\UE5_Ball_Game\Saved\Cooked\Windows'
-[2025.11.18-20.05.58:864][  0]LogIoStore: Display: Found '1726' files
-[2025.11.18-20.05.58:929][  0]LogIoStore: Display: Creating container targets...
-[2025.11.18-20.05.58:938][  0]OodleDataCompression: Display: Oodle v2.9.14 format for pak/iostore with method=Kraken, level=4=Normal
-[2025.11.18-20.05.59:089][  0]LogIoStore: Display: Parsing packages...
-[2025.11.18-20.05.59:094][  0]LogIoStore: Display: Reading package assets...
-[2025.11.18-20.05.59:162][  0]LogIoStore: Display: Packages read 739 files in 0.07 seconds, 1,668,624 total bytes, 23,703,728 bytes per second
-[2025.11.18-20.05.59:219][  0]LogIoStore: Display: Processing shader libraries, compressing with Oodle Mermaid, level 4 (Normal)
-[2025.11.18-20.05.59:255][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 220 groups (55 of them didn't need new indices), average uncompressed size 137140 bytes, min 2378 bytes, max 980381 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
-[2025.11.18-20.06.00:097][  0]LogIoStore: Display: UE5_Ball_Game-PCD3D_SM6(PCD3D_SM6): Recompressed 2361 shaders as 220 groups. Library size changed from 22566 KB (1.31 : 1 ratio) to 14885 KB (1.98 : 1 ratio), 65.96% of previous.
-[2025.11.18-20.06.00:142][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 374 groups (137 of them didn't need new indices), average uncompressed size 156726 bytes, min 249 bytes, max 1047779 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
-[2025.11.18-20.06.00:988][  0]LogIoStore: Display: Global-PCD3D_SM5(PCD3D_SM5): Recompressed 4275 shaders as 374 groups. Library size changed from 13234 KB (4.33 : 1 ratio) to 5662 KB (10.11 : 1 ratio), 42.79% of previous.
-[2025.11.18-20.06.01:284][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 676 groups (185 of them didn't need new indices), average uncompressed size 342430 bytes, min 1249 bytes, max 1046959 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
-[2025.11.18-20.06.08:661][  0]LogIoStore: Display: Global-PCD3D_SM6(PCD3D_SM6): Recompressed 12008 shaders as 676 groups. Library size changed from 170896 KB (1.32 : 1 ratio) to 104669 KB (2.16 : 1 ratio), 61.25% of previous.
-[2025.11.18-20.06.08:695][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 191 groups (79 of them didn't need new indices), average uncompressed size 70534 bytes, min 490 bytes, max 962811 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
-[2025.11.18-20.06.08:895][  0]LogIoStore: Display: UE5_Ball_Game-PCD3D_SM5(PCD3D_SM5): Recompressed 1215 shaders as 191 groups. Library size changed from 3572 KB (3.68 : 1 ratio) to 1527 KB (8.61 : 1 ratio), 42.77% of previous.
-[2025.11.18-20.06.08:900][  0]LogIoStore: Display: Shaders processed in 9.68 seconds
-[2025.11.18-20.06.08:904][  0]LogIoStore: Display: Initialized WriteRequestManager with MaxConcurrentSourceReads=4 (8 cores), MaxSourceBufferMemory=3072MiB
-[2025.11.18-20.06.08:911][  0]LogIoStore: Display: Processing redirects...
-[2025.11.18-20.06.08:911][  0]LogIoStore: Display: Creating disk layout...
-[2025.11.18-20.06.08:914][  0]LogIoStore: Display: Ordered 739 packages using fallback bundle order
-[2025.11.18-20.06.08:969][  0]LogIoStore: Display: Serializing container(s)...
-[2025.11.18-20.06.10:987][  0]LogIoStore: Display: Writing chunks 1902/2445... [506 compressed] [2188 compression tasks] [Physical: 1055 MiB, Virtual: 3894 MiB]
-[2025.11.18-20.06.12:987][  0]LogIoStore: Display: Writing chunks 2187/2445... [724 compressed] [1600 compression tasks] [Physical: 1070 MiB, Virtual: 3819 MiB]
-[2025.11.18-20.06.14:988][  0]LogIoStore: Display: Writing chunks 2222/2445... [757 compressed] [1202 compression tasks] [Physical: 1050 MiB, Virtual: 3742 MiB]
-[2025.11.18-20.06.16:988][  0]LogIoStore: Display: Writing chunks 2245/2445... [780 compressed] [873 compression tasks] [Physical: 1047 MiB, Virtual: 3702 MiB]
-[2025.11.18-20.06.18:990][  0]LogIoStore: Display: Writing chunks 2319/2445... [854 compressed] [418 compression tasks] [Physical: 1040 MiB, Virtual: 3651 MiB]
-[2025.11.18-20.06.20:541][  0]LogIoStore: Display: Writing and compressing took 11.22 seconds, writes to disk took 2.09 seconds for 359,955,936 bytes @ 172,091,776 bytes per second.
-[2025.11.18-20.06.20:541][  0]LogIoStore: Display: global: Found perfect hashmap for 1 items.
-[2025.11.18-20.06.20:542][  0]LogIoStore: Display: UE5_Ball_Game-Windows: Found perfect hashmap for 2444 items.
-[2025.11.18-20.06.20:565][  0]LogIoStore: Display: Finalize took 0.0 seconds for 2 writers to write 307,145 bytes, 12,572,451 bytes per second
-[2025.11.18-20.06.20:565][  0]LogIoStore: Display: Writing tocs... [Physical: 997 MiB, Virtual: 3571 MiB]
-[2025.11.18-20.06.20:566][  0]LogIoStore: Display: 240 / 2,445 hashes were loaded from the hash database, by type:
-[2025.11.18-20.06.20:566][  0]LogIoStore: Display:     BulkData                   240
-[2025.11.18-20.06.20:566][  0]LogIoStore: Display: 979 / 2,445 chunks attempted to compress, by type:
-[2025.11.18-20.06.20:566][  0]LogIoStore: Display:     ExportBundleData           739 / 739
-[2025.11.18-20.06.20:566][  0]LogIoStore: Display:     BulkData                   240 / 240
-[2025.11.18-20.06.20:566][  0]LogIoStore: Display:     ScriptObjects              0 / 1
-[2025.11.18-20.06.20:566][  0]LogIoStore: Display:     ContainerHeader            0 / 1
-[2025.11.18-20.06.20:567][  0]LogIoStore: Display:     ShaderCodeLibrary          0 / 4
-[2025.11.18-20.06.20:567][  0]LogIoStore: Display:     ShaderCode                 0 / 1,460
-[2025.11.18-20.06.20:567][  0]LogIoStore: Display: Source bytes read:
-[2025.11.18-20.06.20:567][  0]LogIoStore: Display:     Zen:                                  0
-[2025.11.18-20.06.20:567][  0]LogIoStore: Display:     Loose File:                 720,309,067
-[2025.11.18-20.06.20:567][  0]LogIoStore: Display:         ExportBundleData        391,644,838 bytes over 1,478 reads
-[2025.11.18-20.06.20:567][  0]LogIoStore: Display:         BulkData                328,664,229 bytes over 240 reads
-[2025.11.18-20.06.20:567][  0]LogIoStore: Display:     Memory:                     261,155,318
-[2025.11.18-20.06.20:567][  0]LogIoStore: Display:         ShaderCodeLibrary         1,579,744 bytes over 8 reads
-[2025.11.18-20.06.20:567][  0]LogIoStore: Display:         ShaderCode              259,575,574 bytes over 2,920 reads
-[2025.11.18-20.06.20:567][  0]LogIoStore: Display: Calculating stats...
-[2025.11.18-20.06.20:567][  0]LogIoStore: Display: 
-[2025.11.18-20.06.20:567][  0]LogIoStore: Display: Container Summary
-[2025.11.18-20.06.20:567][  0]LogIoStore: Display: ==================
-[2025.11.18-20.06.20:567][  0]LogIoStore: Display: 
-[2025.11.18-20.06.20:567][  0]LogIoStore: Display: Container                                               Flags      Chunk(s) #       TOC (KiB)       Raw Size (MiB)           Size (MiB)
-[2025.11.18-20.06.20:567][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
-[2025.11.18-20.06.20:567][  0]LogIoStore: Display: global                                              -/-/-/-/-               1            0.67                 2.52                 2.52 -
-[2025.11.18-20.06.20:567][  0]LogIoStore: Display: UE5_Ball_Game-Windows                               C/-/-/I/-            2444          299.28               627.63               340.76 (45.71% Oodle)
-[2025.11.18-20.06.20:567][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
-[2025.11.18-20.06.20:567][  0]LogIoStore: Display: Total                                                                    2445          299.95               630.14               343.28
-[2025.11.18-20.06.20:567][  0]LogIoStore: Display: 
-[2025.11.18-20.06.20:567][  0]LogIoStore: Display: ** Flags: (C)ompressed / (E)ncrypted / (S)igned) / (I)ndexed) / (O)nDemand **
-[2025.11.18-20.06.20:567][  0]LogIoStore: Display: 
-[2025.11.18-20.06.20:567][  0]LogIoStore: Display: Compression block padding:     1.77 MiB
-[2025.11.18-20.06.20:567][  0]LogIoStore: Display: 
-[2025.11.18-20.06.20:567][  0]LogIoStore: Display: Container Directory Index
-[2025.11.18-20.06.20:567][  0]LogIoStore: Display: ==========================
-[2025.11.18-20.06.20:567][  0]LogIoStore: Display: 
-[2025.11.18-20.06.20:567][  0]LogIoStore: Display: Container                                          Size (KiB)
-[2025.11.18-20.06.20:567][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
-[2025.11.18-20.06.20:567][  0]LogIoStore: Display: global                                                   0.00
-[2025.11.18-20.06.20:567][  0]LogIoStore: Display: UE5_Ball_Game-Windows                                   45.03
-[2025.11.18-20.06.20:567][  0]LogIoStore: Display: 
-[2025.11.18-20.06.20:567][  0]LogIoStore: Display: Container Patch Report
-[2025.11.18-20.06.20:567][  0]LogIoStore: Display: ========================
-[2025.11.18-20.06.20:567][  0]LogIoStore: Display: 
-[2025.11.18-20.06.20:568][  0]LogIoStore: Display: Container                                             Total #       Modified #          Added #   Modified (MiB)      Added (MiB)
-[2025.11.18-20.06.20:568][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
-[2025.11.18-20.06.20:568][  0]LogIoStore: Display: global                                                      1                0                0             0.00             0.00
-[2025.11.18-20.06.20:568][  0]LogIoStore: Display: UE5_Ball_Game-Windows                                    2444                0             2444             0.00           339.00
-[2025.11.18-20.06.20:568][  0]LogIoStore: Display: 
-[2025.11.18-20.06.20:568][  0]LogIoStore: Display: PackageStore
-[2025.11.18-20.06.20:568][  0]LogIoStore: Display: =============
-[2025.11.18-20.06.20:568][  0]LogIoStore: Display: 
-[2025.11.18-20.06.20:568][  0]LogIoStore: Display: Container                                          Size (KiB)      Packages #     Localized #
-[2025.11.18-20.06.20:568][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
-[2025.11.18-20.06.20:568][  0]LogIoStore: Display: UE5_Ball_Game-Windows                                      23             739               0
-[2025.11.18-20.06.20:568][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
-[2025.11.18-20.06.20:568][  0]LogIoStore: Display: Total                                                      23             739               0
-[2025.11.18-20.06.20:568][  0]LogIoStore: Display: 
-[2025.11.18-20.06.20:568][  0]LogIoStore: Display: 
-[2025.11.18-20.06.20:568][  0]LogIoStore: Display: Input:       739 Packages
-[2025.11.18-20.06.20:568][  0]LogIoStore: Display: Input:    186.75 MiB UExp
-[2025.11.18-20.06.20:568][  0]LogIoStore: Display: Input:      1.59 MiB UAsset
-[2025.11.18-20.06.20:572][  0]LogIoStore: Display: Input:    313.44 MiB UBulk
-[2025.11.18-20.06.20:572][  0]LogIoStore: Display: Input:    107.75 MiB for 1050 Global shaders
-[2025.11.18-20.06.20:572][  0]LogIoStore: Display: Input:      1.49 MiB for 171 Shared shaders
-[2025.11.18-20.06.20:572][  0]LogIoStore: Display: Input:         0   B for 0 Unique shaders
-[2025.11.18-20.06.20:572][  0]LogIoStore: Display: Input:     14.54 MiB for 239 Inline shaders
-[2025.11.18-20.06.20:572][  0]LogIoStore: Display: 
-[2025.11.18-20.06.20:572][  0]LogIoStore: Display: Output:     7695 Name map entries
-[2025.11.18-20.06.20:572][  0]LogIoStore: Display: Output:      884 Imported package entries
-[2025.11.18-20.06.20:572][  0]LogIoStore: Display: Output:      382 Packages without imports
-[2025.11.18-20.06.20:572][  0]LogIoStore: Display: Output:        0 Public runtime script objects
-[2025.11.18-20.06.20:572][  0]LogIoStore: Display: Output:     1.11 MiB HeaderData
-[2025.11.18-20.06.20:572][  0]LogIoStore: Display: Output:     2.52 MiB InitialLoadData
-[2025.11.18-20.06.20:572][  0]LogIoStore: Display: 
-[2025.11.18-20.06.20:572][  0]LogIoStore: Display: Success
-[2025.11.18-20.06.20:583][  0]LogPakFile: Display: UnrealPak executed in 21.961494 seconds
-[2025.11.18-20.06.20:621][  0]LogCore: Engine exit requested (reason: UnrealPak Exiting)
-[2025.11.18-20.06.20:621][  0]LogExit: Preparing to exit.
-[2025.11.18-20.06.20:624][  0]LogExit: Object subsystem successfully closed.
-[2025.11.18-20.06.20:626][  0]LogPakFile: Destroying PakPlatformFile
-[2025.11.18-20.06.20:630][  0]LogExit: Exiting.
-[2025.11.18-20.06.20:643][  0]Log file closed, 11/19/25 04:06:20
+[2025.11.22-21.37.19:419][  0]LogConfig: CVar [[r.DumpShaderDebugInfo:2]] deferred - dummy variable created
+[2025.11.22-21.37.19:419][  0]LogConfig: CVar [[p.chaos.AllowCreatePhysxBodies:1]] deferred - dummy variable created
+[2025.11.22-21.37.19:419][  0]LogConfig: CVar [[fx.SkipVectorVMBackendOptimizations:1]] deferred - dummy variable created
+[2025.11.22-21.37.19:419][  0]LogConfig: Applying CVar settings from Section [Startup_Windows] File [../../../Engine/Config/ConsoleVariables.ini]
+[2025.11.22-21.37.19:419][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2025.11.22-21.37.19:420][  0]LogConfig: Set CVar [[WindowsApplication.UseWorkerThreadForRawInput:1]]
+[2025.11.22-21.37.19:420][  0]LogInit: Computer: WIN-9NA7A5NQ83C
+[2025.11.22-21.37.19:420][  0]LogInit: User: Administrator
+[2025.11.22-21.37.19:420][  0]LogInit: CPU Page size=4096, Cores=4
+[2025.11.22-21.37.19:420][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2025.11.22-21.37.19:420][  0]LogInit: Handheld Device: 0
+[2025.11.22-21.37.19:420][  0]LogMemory: Process is running as part of a Windows Job with separate resource limits
+[2025.11.22-21.37.19:420][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx) Virtual=31.7GB
+[2025.11.22-21.37.19:420][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2025.11.22-21.37.19:420][  0]LogMemory: Process Physical Memory: 67.00 MB used, 67.00 MB peak
+[2025.11.22-21.37.19:420][  0]LogMemory: Process Virtual Memory: 105.30 MB used, 105.30 MB peak
+[2025.11.22-21.37.19:420][  0]LogMemory: Physical Memory: 11282.58 MB used,  4790.66 MB free, 16073.23 MB total
+[2025.11.22-21.37.19:420][  0]LogMemory: Virtual Memory: 19612.80 MB used,  12844.43 MB free, 32457.23 MB total
+[2025.11.22-21.37.19:443][  0]LogAssetRegistry: FAssetRegistry took 0.0030 seconds to start up
+[2025.11.22-21.37.19:446][  0]LogUObjectArray: 620 objects as part of root set at end of initial load.
+[2025.11.22-21.37.19:447][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2025.11.22-21.37.19:449][  0]LogInit: Using OS detected language ().
+[2025.11.22-21.37.19:449][  0]LogInit: Using OS detected locale ().
+[2025.11.22-21.37.19:450][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
+[2025.11.22-21.37.19:453][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
+[2025.11.22-21.37.19:453][  0]LogInit: Using OS detected language ().
+[2025.11.22-21.37.19:453][  0]LogInit: Using OS detected locale ().
+[2025.11.22-21.37.19:454][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
+[2025.11.22-21.37.19:455][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
+[2025.11.22-21.37.19:455][  0]LogPakFile: Display: ProjectDir: D:/Git_projects/UE/UE5_Ball_Game/UE5_Ball_Game/
+[2025.11.22-21.37.19:457][  0]LogIoStore: Display: ==================== IoStore Utils ====================
+[2025.11.22-21.37.19:460][  0]LogIoStore: Display: Parsing crypto keys from a crypto key cache file 'D:\Git_projects\UE\UE5_Ball_Game\UE5_Ball_Game\Saved\Cooked\Windows\UE5_Ball_Game\Metadata\Crypto.json'
+[2025.11.22-21.37.19:467][  0]LogIoStore: Display: Container signing - DISABLED
+[2025.11.22-21.37.19:467][  0]LogIoStore: Display: Directory index - ENABLED
+[2025.11.22-21.37.19:467][  0]LogIoStore: Display: Using compression format 'Oodle'
+[2025.11.22-21.37.19:605][  0]LogConfig: Display: Read in platform Windows ini files took 0.14 seconds
+[2025.11.22-21.37.19:605][  0]LogIoStore: Display: Using memory mapping alignment '16384'
+[2025.11.22-21.37.19:605][  0]LogIoStore: Display: Using compression block size '65536'
+[2025.11.22-21.37.19:605][  0]LogIoStore: Display: Using compression block alignment '2048'
+[2025.11.22-21.37.19:605][  0]LogIoStore: Display: Using compression min bytes saved '1024'
+[2025.11.22-21.37.19:605][  0]LogIoStore: Display: Using compression min percent saved '5'
+[2025.11.22-21.37.19:605][  0]LogIoStore: Display: Using max partition size '0'
+[2025.11.22-21.37.19:605][  0]LogIoStore: Display: Not using DDC for compression
+[2025.11.22-21.37.19:605][  0]LogIoStore: Display: Using command list file: 'C:\Users\Administrator\AppData\Roaming\Unreal Engine\AutomationTool\Logs\E+UE_5.7\IoStoreCommands.txt'
+[2025.11.22-21.37.19:623][  0]LogIoStore: Display: Selected Oodle level 4 (Normal) from command line for shaders
+[2025.11.22-21.37.19:625][  0]LogIoStore: Display: Fetched 950 oplog items from Manifest in 0.00 seconds
+[2025.11.22-21.37.19:638][  0]LogIoStore: Display: Parsed 950 oplog items 0.01 seconds, 1274 chunks
+[2025.11.22-21.37.19:663][  0]LogIoStore: Display: Using input asset registry: D:/Git_projects/UE/UE5_Ball_Game/UE5_Ball_Game/Saved/Cooked/Windows/UE5_Ball_Game/Metadata/DevelopmentAssetRegistry.bin
+[2025.11.22-21.37.19:687][  0]LogIoStore: Display: Loaded 331 chunk hashes from AssetRegistry in 0.05 seconds, 331 hashes updated in 0.00 seconds
+[2025.11.22-21.37.19:693][  0]LogIoStore: Display: Searching for cooked assets in folder 'D:\Git_projects\UE\UE5_Ball_Game\UE5_Ball_Game\Saved\Cooked\Windows'
+[2025.11.22-21.37.19:793][  0]LogIoStore: Display: Found '2225' files
+[2025.11.22-21.37.19:852][  0]LogIoStore: Display: Creating container targets...
+[2025.11.22-21.37.19:873][  0]OodleDataCompression: Display: Oodle v2.9.14 format for pak/iostore with method=Kraken, level=4=Normal
+[2025.11.22-21.37.20:011][  0]LogIoStore: Display: Parsing packages...
+[2025.11.22-21.37.20:012][  0]LogIoStore: Display: Reading package assets...
+[2025.11.22-21.37.20:150][  0]LogIoStore: Display: Packages read 943 files in 0.14 seconds, 2,891,750 total bytes, 21,043,213 bytes per second
+[2025.11.22-21.37.20:262][  0]LogIoStore: Display: Processing shader libraries, compressing with Oodle Mermaid, level 4 (Normal)
+[2025.11.22-21.37.20:279][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 212 groups (86 of them didn't need new indices), average uncompressed size 66895 bytes, min 490 bytes, max 962811 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2025.11.22-21.37.20:543][  0]LogIoStore: Display: UE5_Ball_Game-PCD3D_SM5(PCD3D_SM5): Recompressed 1301 shaders as 212 groups. Library size changed from 3779 KB (3.66 : 1 ratio) to 1626 KB (8.51 : 1 ratio), 43.04% of previous.
+[2025.11.22-21.37.20:882][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 676 groups (185 of them didn't need new indices), average uncompressed size 342430 bytes, min 1249 bytes, max 1046959 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2025.11.22-21.37.30:281][  0]LogIoStore: Display: Global-PCD3D_SM6(PCD3D_SM6): Recompressed 12008 shaders as 676 groups. Library size changed from 170896 KB (1.32 : 1 ratio) to 104669 KB (2.16 : 1 ratio), 61.25% of previous.
+[2025.11.22-21.37.30:346][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 374 groups (137 of them didn't need new indices), average uncompressed size 156726 bytes, min 249 bytes, max 1047779 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2025.11.22-21.37.31:353][  0]LogIoStore: Display: Global-PCD3D_SM5(PCD3D_SM5): Recompressed 4275 shaders as 374 groups. Library size changed from 13234 KB (4.33 : 1 ratio) to 5662 KB (10.11 : 1 ratio), 42.79% of previous.
+[2025.11.22-21.37.31:397][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 243 groups (59 of them didn't need new indices), average uncompressed size 131269 bytes, min 2378 bytes, max 980381 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2025.11.22-21.37.32:532][  0]LogIoStore: Display: UE5_Ball_Game-PCD3D_SM6(PCD3D_SM6): Recompressed 2519 shaders as 243 groups. Library size changed from 23878 KB (1.30 : 1 ratio) to 15804 KB (1.97 : 1 ratio), 66.18% of previous.
+[2025.11.22-21.37.32:539][  0]LogIoStore: Display: Shaders processed in 12.28 seconds
+[2025.11.22-21.37.32:546][  0]LogIoStore: Display: Initialized WriteRequestManager with MaxConcurrentSourceReads=4 (8 cores), MaxSourceBufferMemory=3072MiB
+[2025.11.22-21.37.32:553][  0]LogIoStore: Display: Processing redirects...
+[2025.11.22-21.37.32:554][  0]LogIoStore: Display: Creating disk layout...
+[2025.11.22-21.37.32:561][  0]LogIoStore: Display: Ordered 943 packages using fallback bundle order
+[2025.11.22-21.37.32:626][  0]LogIoStore: Display: Serializing container(s)...
+[2025.11.22-21.37.34:666][  0]LogIoStore: Display: Writing chunks 1046/2784... [182 compressed] [3886 compression tasks] [Physical: 1333 MiB, Virtual: 4207 MiB]
+[2025.11.22-21.37.36:667][  0]LogIoStore: Display: Writing chunks 2146/2784... [708 compressed] [3110 compression tasks] [Physical: 1326 MiB, Virtual: 4164 MiB]
+[2025.11.22-21.37.38:667][  0]LogIoStore: Display: Writing chunks 2187/2784... [874 compressed] [2654 compression tasks] [Physical: 1287 MiB, Virtual: 4093 MiB]
+[2025.11.22-21.37.40:667][  0]LogIoStore: Display: Writing chunks 2448/2784... [946 compressed] [2292 compression tasks] [Physical: 1267 MiB, Virtual: 4024 MiB]
+[2025.11.22-21.37.42:668][  0]LogIoStore: Display: Writing chunks 2476/2784... [967 compressed] [2008 compression tasks] [Physical: 1261 MiB, Virtual: 3990 MiB]
+[2025.11.22-21.37.44:669][  0]LogIoStore: Display: Writing chunks 2493/2784... [987 compressed] [1667 compression tasks] [Physical: 1252 MiB, Virtual: 3938 MiB]
+[2025.11.22-21.37.46:670][  0]LogIoStore: Display: Writing chunks 2564/2784... [1055 compressed] [1300 compression tasks] [Physical: 1265 MiB, Virtual: 3921 MiB]
+[2025.11.22-21.37.48:671][  0]LogIoStore: Display: Writing chunks 2614/2784... [1105 compressed] [890 compression tasks] [Physical: 1276 MiB, Virtual: 3898 MiB]
+[2025.11.22-21.37.50:671][  0]LogIoStore: Display: Writing chunks 2662/2784... [1153 compressed] [533 compression tasks] [Physical: 1277 MiB, Virtual: 3850 MiB]
+[2025.11.22-21.37.52:673][  0]LogIoStore: Display: Writing chunks 2681/2784... [1172 compressed] [152 compression tasks] [Physical: 1210 MiB, Virtual: 3744 MiB]
+[2025.11.22-21.37.53:042][  0]LogIoStore: Display: Writing and compressing took 19.92 seconds, writes to disk took 4.46 seconds for 449,437,728 bytes @ 100,693,798 bytes per second.
+[2025.11.22-21.37.53:044][  0]LogIoStore: Display: global: Found perfect hashmap for 1 items.
+[2025.11.22-21.37.53:047][  0]LogIoStore: Display: UE5_Ball_Game-Windows: Found perfect hashmap for 2783 items.
+[2025.11.22-21.37.53:078][  0]LogIoStore: Display: Finalize took 0.0 seconds for 2 writers to write 388,165 bytes, 11,265,330 bytes per second
+[2025.11.22-21.37.53:080][  0]LogIoStore: Display: Writing tocs... [Physical: 1196 MiB, Virtual: 3721 MiB]
+[2025.11.22-21.37.53:080][  0]LogIoStore: Display: 331 / 2,784 hashes were loaded from the hash database, by type:
+[2025.11.22-21.37.53:080][  0]LogIoStore: Display:     BulkData                   331
+[2025.11.22-21.37.53:080][  0]LogIoStore: Display: 1,274 / 2,784 chunks attempted to compress, by type:
+[2025.11.22-21.37.53:080][  0]LogIoStore: Display:     ExportBundleData           943 / 943
+[2025.11.22-21.37.53:080][  0]LogIoStore: Display:     BulkData                   331 / 331
+[2025.11.22-21.37.53:080][  0]LogIoStore: Display:     ScriptObjects              0 / 1
+[2025.11.22-21.37.53:080][  0]LogIoStore: Display:     ContainerHeader            0 / 1
+[2025.11.22-21.37.53:080][  0]LogIoStore: Display:     ShaderCodeLibrary          0 / 4
+[2025.11.22-21.37.53:080][  0]LogIoStore: Display:     ShaderCode                 0 / 1,504
+[2025.11.22-21.37.53:080][  0]LogIoStore: Display: Source bytes read:
+[2025.11.22-21.37.53:080][  0]LogIoStore: Display:     Zen:                                  0
+[2025.11.22-21.37.53:080][  0]LogIoStore: Display:     Loose File:               1,046,937,930
+[2025.11.22-21.37.53:081][  0]LogIoStore: Display:         ExportBundleData        494,965,794 bytes over 1,886 reads
+[2025.11.22-21.37.53:081][  0]LogIoStore: Display:         BulkData                551,972,136 bytes over 331 reads
+[2025.11.22-21.37.53:081][  0]LogIoStore: Display:     Memory:                     263,261,696
+[2025.11.22-21.37.53:081][  0]LogIoStore: Display:         ShaderCodeLibrary         1,603,000 bytes over 8 reads
+[2025.11.22-21.37.53:081][  0]LogIoStore: Display:         ShaderCode              261,658,696 bytes over 3,008 reads
+[2025.11.22-21.37.53:081][  0]LogIoStore: Display: Calculating stats...
+[2025.11.22-21.37.53:081][  0]LogIoStore: Display: 
+[2025.11.22-21.37.53:081][  0]LogIoStore: Display: Container Summary
+[2025.11.22-21.37.53:081][  0]LogIoStore: Display: ==================
+[2025.11.22-21.37.53:081][  0]LogIoStore: Display: 
+[2025.11.22-21.37.53:081][  0]LogIoStore: Display: Container                                               Flags      Chunk(s) #       TOC (KiB)       Raw Size (MiB)           Size (MiB)
+[2025.11.22-21.37.53:081][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2025.11.22-21.37.53:081][  0]LogIoStore: Display: global                                              -/-/-/-/-               1            0.67                 2.52                 2.52 -
+[2025.11.22-21.37.53:081][  0]LogIoStore: Display: UE5_Ball_Game-Windows                               C/-/-/I/-            2783          378.40               892.09               426.10 (52.24% Oodle)
+[2025.11.22-21.37.53:081][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2025.11.22-21.37.53:081][  0]LogIoStore: Display: Total                                                                    2784          379.07               894.61               428.62
+[2025.11.22-21.37.53:081][  0]LogIoStore: Display: 
+[2025.11.22-21.37.53:081][  0]LogIoStore: Display: ** Flags: (C)ompressed / (E)ncrypted / (S)igned) / (I)ndexed) / (O)nDemand **
+[2025.11.22-21.37.53:081][  0]LogIoStore: Display: 
+[2025.11.22-21.37.53:081][  0]LogIoStore: Display: Compression block padding:     2.00 MiB
+[2025.11.22-21.37.53:081][  0]LogIoStore: Display: 
+[2025.11.22-21.37.53:081][  0]LogIoStore: Display: Container Directory Index
+[2025.11.22-21.37.53:081][  0]LogIoStore: Display: ==========================
+[2025.11.22-21.37.53:081][  0]LogIoStore: Display: 
+[2025.11.22-21.37.53:081][  0]LogIoStore: Display: Container                                          Size (KiB)
+[2025.11.22-21.37.53:081][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2025.11.22-21.37.53:081][  0]LogIoStore: Display: global                                                   0.00
+[2025.11.22-21.37.53:081][  0]LogIoStore: Display: UE5_Ball_Game-Windows                                   55.84
+[2025.11.22-21.37.53:081][  0]LogIoStore: Display: 
+[2025.11.22-21.37.53:081][  0]LogIoStore: Display: Container Patch Report
+[2025.11.22-21.37.53:081][  0]LogIoStore: Display: ========================
+[2025.11.22-21.37.53:081][  0]LogIoStore: Display: 
+[2025.11.22-21.37.53:081][  0]LogIoStore: Display: Container                                             Total #       Modified #          Added #   Modified (MiB)      Added (MiB)
+[2025.11.22-21.37.53:081][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2025.11.22-21.37.53:081][  0]LogIoStore: Display: global                                                      1                0                0             0.00             0.00
+[2025.11.22-21.37.53:081][  0]LogIoStore: Display: UE5_Ball_Game-Windows                                    2783                0             2783             0.00           424.10
+[2025.11.22-21.37.53:081][  0]LogIoStore: Display: 
+[2025.11.22-21.37.53:081][  0]LogIoStore: Display: PackageStore
+[2025.11.22-21.37.53:081][  0]LogIoStore: Display: =============
+[2025.11.22-21.37.53:081][  0]LogIoStore: Display: 
+[2025.11.22-21.37.53:081][  0]LogIoStore: Display: Container                                          Size (KiB)      Packages #     Localized #
+[2025.11.22-21.37.53:081][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2025.11.22-21.37.53:081][  0]LogIoStore: Display: UE5_Ball_Game-Windows                                      30             943               0
+[2025.11.22-21.37.53:081][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2025.11.22-21.37.53:081][  0]LogIoStore: Display: Total                                                      30             943               0
+[2025.11.22-21.37.53:082][  0]LogIoStore: Display: 
+[2025.11.22-21.37.53:082][  0]LogIoStore: Display: 
+[2025.11.22-21.37.53:082][  0]LogIoStore: Display: Input:       943 Packages
+[2025.11.22-21.37.53:082][  0]LogIoStore: Display: Input:    236.02 MiB UExp
+[2025.11.22-21.37.53:082][  0]LogIoStore: Display: Input:      2.76 MiB UAsset
+[2025.11.22-21.37.53:082][  0]LogIoStore: Display: Input:    526.40 MiB UBulk
+[2025.11.22-21.37.53:082][  0]LogIoStore: Display: Input:    107.75 MiB for 1050 Global shaders
+[2025.11.22-21.37.53:082][  0]LogIoStore: Display: Input:      1.77 MiB for 187 Shared shaders
+[2025.11.22-21.37.53:082][  0]LogIoStore: Display: Input:         0   B for 0 Unique shaders
+[2025.11.22-21.37.53:082][  0]LogIoStore: Display: Input:     15.25 MiB for 267 Inline shaders
+[2025.11.22-21.37.53:082][  0]LogIoStore: Display: 
+[2025.11.22-21.37.53:090][  0]LogIoStore: Display: Output:     9933 Name map entries
+[2025.11.22-21.37.53:090][  0]LogIoStore: Display: Output:     1258 Imported package entries
+[2025.11.22-21.37.53:091][  0]LogIoStore: Display: Output:      458 Packages without imports
+[2025.11.22-21.37.53:091][  0]LogIoStore: Display: Output:        0 Public runtime script objects
+[2025.11.22-21.37.53:091][  0]LogIoStore: Display: Output:     2.11 MiB HeaderData
+[2025.11.22-21.37.53:091][  0]LogIoStore: Display: Output:     2.52 MiB InitialLoadData
+[2025.11.22-21.37.53:091][  0]LogIoStore: Display: 
+[2025.11.22-21.37.53:091][  0]LogIoStore: Display: Success
+[2025.11.22-21.37.53:120][  0]LogPakFile: Display: UnrealPak executed in 33.664268 seconds
+[2025.11.22-21.37.53:156][  0]LogCore: Engine exit requested (reason: UnrealPak Exiting)
+[2025.11.22-21.37.53:156][  0]LogExit: Preparing to exit.
+[2025.11.22-21.37.53:160][  0]LogExit: Object subsystem successfully closed.
+[2025.11.22-21.37.53:163][  0]LogPakFile: Destroying PakPlatformFile
+[2025.11.22-21.37.53:165][  0]LogExit: Exiting.
+[2025.11.22-21.37.53:195][  0]Log file closed, 11/23/25 05:37:53
