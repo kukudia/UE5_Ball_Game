@@ -1,8 +1,0 @@
-{
-	"RemapUnityFiles": 
-	{
-		"Module.UE5_Ball_Game.cpp.obj": [
-			"UE5_Ball_Game.cpp.obj"
-		]
-	}
-}
